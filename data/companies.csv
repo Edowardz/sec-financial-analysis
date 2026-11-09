@@ -1,0 +1,62 @@
+ticker,cik,name,sector
+AAPL,320193,Apple,Technology
+MSFT,789019,Microsoft,Technology
+NVDA,1045810,NVIDIA,Technology
+ORCL,1341439,Oracle,Technology
+CSCO,858877,Cisco Systems,Technology
+INTC,50863,Intel,Technology
+IBM,51143,IBM,Technology
+ADBE,796343,Adobe,Technology
+CRM,1108524,Salesforce,Technology
+QCOM,804328,Qualcomm,Technology
+GOOGL,1652044,Alphabet,Communication
+META,1326801,Meta Platforms,Communication
+NFLX,1065280,Netflix,Communication
+DIS,1744489,Walt Disney,Communication
+CMCSA,1166691,Comcast,Communication
+VZ,732712,Verizon,Communication
+T,732717,AT&T,Communication
+AMZN,1018724,Amazon,Consumer Discretionary
+TSLA,1318605,Tesla,Consumer Discretionary
+HD,354950,Home Depot,Consumer Discretionary
+LOW,60667,Lowe's,Consumer Discretionary
+MCD,63908,McDonald's,Consumer Discretionary
+NKE,320187,Nike,Consumer Discretionary
+SBUX,829224,Starbucks,Consumer Discretionary
+GM,1467858,General Motors,Consumer Discretionary
+F,37996,Ford Motor,Consumer Discretionary
+WMT,104169,Walmart,Consumer Staples
+COST,909832,Costco,Consumer Staples
+TGT,27419,Target,Consumer Staples
+PG,80424,Procter & Gamble,Consumer Staples
+KO,21344,Coca-Cola,Consumer Staples
+PEP,77476,PepsiCo,Consumer Staples
+PM,1413329,Philip Morris International,Consumer Staples
+MO,764180,Altria,Consumer Staples
+CL,21665,Colgate-Palmolive,Consumer Staples
+JNJ,200406,Johnson & Johnson,Health Care
+UNH,731766,UnitedHealth Group,Health Care
+PFE,78003,Pfizer,Health Care
+MRK,310158,Merck,Health Care
+ABBV,1551152,AbbVie,Health Care
+LLY,59478,Eli Lilly,Health Care
+ABT,1800,Abbott Laboratories,Health Care
+AMGN,318154,Amgen,Health Care
+BMY,14272,Bristol-Myers Squibb,Health Care
+TMO,97745,Thermo Fisher Scientific,Health Care
+CAT,18230,Caterpillar,Industrials
+BA,12927,Boeing,Industrials
+HON,773840,Honeywell,Industrials
+GE,40545,General Electric,Industrials
+LMT,936468,Lockheed Martin,Industrials
+UPS,1090727,United Parcel Service,Industrials
+DE,315189,Deere & Company,Industrials
+UNP,100885,Union Pacific,Industrials
+MMM,66740,3M,Industrials
+FDX,1048911,FedEx,Industrials
+XOM,34088,Exxon Mobil,Energy
+CVX,93410,Chevron,Energy
+COP,1163165,ConocoPhillips,Energy
+NEE,753308,NextEra Energy,Utilities
+DUK,1326160,Duke Energy,Utilities
+SO,92122,Southern Company,Utilities
